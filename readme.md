@@ -8,6 +8,11 @@
 - 📚 I’m currently working on big projects.
 - 💪🏼 Future Goals: Learn more technologies.
 
+![Twitter Follow](https://img.shields.io/twitter/follow/realbardiesel?label=Follow)
+![GitHub followers](https://img.shields.io/github/followers/bardiesel?label=Follow&style=social)
+
+
+
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
