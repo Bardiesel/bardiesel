@@ -1,17 +1,18 @@
-# Hi there, I'm Bardia - aka [Bardiesel] <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Bardia - aka Bardiesel <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Backend Developer
 
-- 👨‍💻 I’m working on web development technologies .
-- 📚 I’m currently working on big projects.
-- 💪🏼 Future Goals: Learn more technologies.
+- 👨‍💻 I’m Working on Web Development Technologies .
+- 💪🏼 Future Goals: Learn More.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/realbardiesel?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/bardiesel?label=Follow&style=social)
-![Twitch followers](https://img.shields.io/twitch/status/bardiiesel?style=social)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=social&logo=Instagram)](https://www.instagram.com/bardiiesel/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realbardiesel)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pED7Yw9SAj)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bardiesel)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bardiiesel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bardiiesel/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bardia-m-b44878143/)
 
 
 ---
