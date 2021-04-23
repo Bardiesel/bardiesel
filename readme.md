@@ -22,7 +22,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem-swart-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/kfneqqqtjvwdlq5tjpy8sonvp)
 
 ---
 
