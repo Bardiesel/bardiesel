@@ -10,7 +10,8 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/realbardiesel?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/bardiesel?label=Follow&style=social)
-
+![Twitch followers](https://img.shields.io/twitch/status/bardiiesel?style=social)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=social&logo=Instagram)](https://www.instagram.com/bardiiesel/)
 
 
 ---
