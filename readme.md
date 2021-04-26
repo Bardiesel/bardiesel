@@ -4,8 +4,8 @@
 
 ## I'm a Backend Developer
 
-- 👨‍💻 I’m Working on Web Development Technologies .
-- 💪🏼 Future Goals: Learn More.
+- 👨‍💻 Web Development Technologies is one of my main areas of expertise.
+- 📫 What is the best way to contact me? `bardiamarandi@hotmail.com`
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bardiesel)
