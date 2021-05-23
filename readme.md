@@ -78,7 +78,7 @@ Mac                      8 hrs 28 mins       ███████████�
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
-[![vsCode](https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 
 <img src="https://imgur.com/rilHVxA.png"/>
