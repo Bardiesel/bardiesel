@@ -78,4 +78,4 @@ VS Code                  2 hrs 44 mins       ███████████�
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 
-<img src="https://imgur.com/rilHVxA.png"/>
+<img src="https://imgur.com/rilHVxA.png"/> 
