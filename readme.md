@@ -45,15 +45,17 @@
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 6 mins         ███████████████████████░░   92.22% 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.85% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 12 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/07/2021
+ Last Updated on 07/07/2021
 <!--END_SECTION:waka-->
 
 
