@@ -45,15 +45,15 @@
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 
 
