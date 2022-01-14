@@ -5,7 +5,6 @@
 ## I'm a Backend Developer
 
 - 🌱 I am currently learning more about backend development.
-- 🏆 2021 Goals: Contribute more to Open Source Projects.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/bardiesel/)
 - 😄 Pronouns: He/Him
 
