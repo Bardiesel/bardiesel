@@ -43,16 +43,15 @@
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      11 mins             █████████████████████████   99.62% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 14/04/2022 18:46:29 UTC
+ Last Updated on 15/04/2022 18:48:24 UTC
 <!--END_SECTION:waka-->
 
 
